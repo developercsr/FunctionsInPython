@@ -16,4 +16,7 @@ def rectangle(length,width):
     print("The area of the recatngle is ",length*width)
 if __name__=="__main__":
     main()
-
+"""
+KeyWords Parameters : : these are also called as keywords arguments these are just like these 
+defalut parameters but we will defalult values to the every parameters then it will avoid errors.
+"""
