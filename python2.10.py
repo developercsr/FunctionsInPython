@@ -1,6 +1,6 @@
 #User defined function
 # ==> A reusable code 
-#ex
+#example
 #printing a trianle pattren
 def triangle(num):
     k=num
